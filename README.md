@@ -1,0 +1,1 @@
+This small project is for practice using the chalk package installed from an npm.
